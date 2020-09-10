@@ -78,7 +78,9 @@ body{
 .modal-header{
     background-color: $background-dark;
 }
-
+.modal-footer{
+    background-color: $background-pale;
+}
 .modal-body{
     background-color: $background-pale;
 }
